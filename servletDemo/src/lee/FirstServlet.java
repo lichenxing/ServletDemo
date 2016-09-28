@@ -13,8 +13,8 @@ import java.io.*;
  * <br/>This program is protected by copyright laws.
  * <br/>Program Name:
  * <br/>Date:
- * @author  Yeeku.H.Lee kongyeeku@163.com
- * @version  1.0
+ * @author  LiChenxing
+ * @version  2.0
  */
 // Servlet±ÿ–ÎºÃ≥–HttpServlet¿‡
 /*@WebServlet(name="firstServlet"
